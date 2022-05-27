@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Telegram_task2</string>
+    <string name="notification">Notification</string>
+    <string name="back">Back</string>
+    <string name="turn_on_notifications">Turn ON Notifications</string>
+    <string name="info_notification">Don\'t miss important message from your friends or coworkers</string>
+    <string name="turn_on_in_settings">Turn ON in Settings</string>
+    <string name="message_notifications">Message Notifications</string>
+    <string name="private_chats">Private Chats</string>
+    <string name="on">On</string>
+    <string name="group_chats">Group Chats</string>
+    <string name="channels">Channels</string>
+    <string name="in_app_sounds">In-App Sounds</string>
+    <string name="in_app_vibrate">In-App Vibrate</string>
+    <string name="in_app_preview">In-App Preview</string>
+    <string name="names_on_lock_screen">Names on Lock Screen</string>
+    <string name="not_info">Display names in notification when the device is locked. To disable, make sure that \"Show Previews\" is also set \"When unlocked\" or \"Never\" in iOS Settings > Notifications</string>
+    <string name="include_channels">Include Channels</string>
+    <string name="count_unread_messages">Count Unread Messages</string>
+    <string name="badge_counter">BADGE COUNTER</string>
+    <string name="switch_off_to_show_the_number_of_unread_chats_instead_of_message">Switch off to show the number of unread chats instead of message</string>
+    <string name="new_contacts">New Contacts</string>
+    <string name="receive_push_notification_when_one_of_your_contacts_becomes_available_on_telegram">Receive push notification when one of your contacts becomes available on Telegram</string>
+    <string name="reset_all_notifications">Reset All Notifications</string>
+    <string name="undo_all_custom_notification_settings_for_your_contacts_groups_channels">Undo all custom notification settings for your contacts, groups, channels</string>
+</resources>
